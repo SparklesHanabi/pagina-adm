@@ -223,8 +223,6 @@
       </article>
     </section>
     <!-- FIM DOBRA RODAPÉ -->
-    <footer class="main_footer_rights">
-      <p>MuscleUP - Todos os direitos reservados.</p>
-    </footer>
+    
   </body>
 </html>
